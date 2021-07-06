@@ -3,9 +3,6 @@
 <h1 align='center'>
   <img src='https://assets.website-files.com/5ff79f3ebebf6b12f6b7747f/5ffe04fc6284b7e90070d985_logo-gama-academy-p-500.png'>
 </h1>
-<h1>GIF</h1>
-![Alt text](https://)
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 # Sobre
 <p>
@@ -18,13 +15,15 @@
   <li>Alternativas:</li>
 </ul>
 <p>
-  A intenção é que ao término do preenchimento o usuário consiga fazer um POST da prova cadastrada-a no banco de dados, e posteriormente consiga visualizar a prova listada, podendo responder as alternativas disponiveis, e recebendo um retorno com indicação da da correta.
+  A intenção é que ao término do preenchimento o usuário consiga fazer um POST da prova cadastrada-a no banco de dados. A aplicação não possui interface para visualizar a inserção.
 </p>
 
-# Tecnologias: 
+# Stack: 
 <ul>
   <li>React JS</li>
   <li>Javascript</li>
+  <li>HTML</li>
+  <li>CSS</li>
 </ul>
 
 # Passo a Passo
@@ -64,12 +63,6 @@
 </p>
 
 # Simulações dos Métodos e funcionalidades: 
-
-<p>Através do método GET estará disponível as funcionalidades: </p>
-<ul>
-  <li>Consultar provas cadastradas</li>
-  <li>Verificar alternativa correta</li>
-</ul>
 
 <p>Através do método POST estará disponível as funcionalidades: </p>
 <ul>

@@ -77,7 +77,7 @@ li{
 #mainContainer{
     background-color: #ffffff ;
     width: 900px;
-    height: 100%;
+    height: 1000px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -93,7 +93,6 @@ li{
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
-    /* flex-grow: 1; */
 }
 .mainTittles{
     font-family:Raleway;
@@ -193,17 +192,6 @@ li{
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
-}
-.examList{
-    width: 720px;
-    height: auto;
-    background-color: #f9f4f4;
-    border-radius: 15px; 
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    justify-content:flex-start;
-    margin-bottom: 20px;
 }
 .optionStyle{
     width: 15px;
