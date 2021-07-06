@@ -150,7 +150,6 @@ class App extends Component{
 		}
 	}
 	render(){
-		const { stepOne, stepTwo, stepThree} = this.state
 		return (
 			<div id='mainContainer'>
 				<h1 className='mainTittles'>Gama Challenge</h1>

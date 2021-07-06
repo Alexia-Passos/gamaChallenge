@@ -37,7 +37,7 @@
   ```bash 
   #Clonar o repositório com link https
 
-  git clone "https..."
+  git clone https://github.com/Alexia-Passos/gamaChallenge.git
   
   #Mudar de diretório, entrando no diretório correto
   $ cd gamaChallenge
